@@ -26,4 +26,4 @@
 
 ---
 
-## Made with :two_hearts: by Kayo Oliveira
+## Made with :two_hearts: by Mohnate
