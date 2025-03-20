@@ -13,7 +13,7 @@
 
 
 ## How to play?
-> Just access the [link](https://www.plinko.kayooliveira.com), select your bet value and click on 'Apostar', or, if you don't want to lose your points, just click directly on 'Apostar' button and the game will put a new ball without value in game.
+> Just access the [link](https://funny-plinko-game.vercel.app), select your bet value and click on 'Apostar', or, if you don't want to lose your points, just click directly on 'Apostar' button and the game will put a new ball without value in game.
 
 
 ## Stacks
